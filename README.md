@@ -9,5 +9,3 @@
 ```shell script
 ./oncepleg
 ```
-
-#### 已知问题
