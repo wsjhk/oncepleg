@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 	"google.golang.org/grpc"
-	runtimeapi "k8s.io/cri-api/pkg/apis/runtime/v1alpha2"
+	runtimeapi "github.com/kubernetes/cri-api/pkg/apis/runtime/v1alpha2"
 	"k8s.io/klog"
 	"net"
 	"net/url"
